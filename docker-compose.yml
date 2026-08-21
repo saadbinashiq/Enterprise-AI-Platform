@@ -1,0 +1,37 @@
+# Optional: only needed if you switch DATABASE_URL/GRAPH_BACKEND to use real
+# Postgres/Neo4j instead of the zero-setup SQLite/NetworkX defaults. This is
+# the path to demonstrate the "production-scale" architecture described in
+# the case study's Non-Functional Requirements.
+#
+# Run: docker compose up -d
+version: "3.9"
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+      POSTGRES_DB: enterprise_ai
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  neo4j:
+    image: neo4j:5
+    environment:
+      NEO4J_AUTH: neo4j/password123
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - neo4jdata:/data
+
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"
+
+volumes:
+  pgdata:
+  neo4jdata:

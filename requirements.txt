@@ -1,0 +1,32 @@
+# Core
+fastapi
+uvicorn[standard]
+python-dotenv
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary   # only needed if you switch DATABASE_URL to Postgres
+
+# Knowledge Graph
+networkx
+neo4j             # only needed if you switch GRAPH_BACKEND=neo4j
+
+# RAG
+scikit-learn      # TF-IDF fallback embeddings (no model download needed) + in-memory RAG retrieval
+# sentence-transformers   # optional: better embeddings, needs internet to download model
+langchain
+langchain-community
+langchain-openai  # optional: only used if OPENAI_API_KEY is set
+
+# Multi-agent orchestration
+langgraph
+
+# Forecasting
+statsmodels
+# prophet         # optional swap-in, see forecasting/forecaster.py docstring
+
+# Dashboard
+streamlit
+requests
