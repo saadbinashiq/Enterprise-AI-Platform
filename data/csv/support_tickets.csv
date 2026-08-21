@@ -1,0 +1,401 @@
+ticket_id,store_id,issue_type,date,resolved_in_hours
+1,5,Other,2026-05-22,69.8
+2,3,Product Defect,2026-04-28,92.9
+3,6,Refund Request,2026-03-07,46.4
+4,1,Billing Issue,2026-04-22,89.5
+5,12,Other,2026-04-23,92.5
+6,8,Billing Issue,2026-06-06,87.2
+7,8,Delivery Delay,2026-06-14,34.3
+8,4,Delivery Delay,2026-03-14,67.6
+9,8,Other,2026-05-05,89.0
+10,12,Refund Request,2026-03-21,10.2
+11,3,Product Defect,2026-04-18,58.0
+12,3,Refund Request,2026-03-04,37.8
+13,2,Billing Issue,2026-06-13,12.6
+14,6,Delivery Delay,2026-04-04,83.8
+15,1,Product Defect,2026-05-29,36.6
+16,11,Delivery Delay,2026-05-22,19.1
+17,6,Refund Request,2026-07-16,95.8
+18,1,Other,2026-03-02,20.4
+19,6,Billing Issue,2026-06-30,30.3
+20,3,Refund Request,2026-06-05,69.5
+21,6,Billing Issue,2026-03-06,40.8
+22,7,Product Defect,2026-07-03,92.3
+23,8,Delivery Delay,2026-03-15,62.7
+24,6,Billing Issue,2026-03-16,79.3
+25,6,Product Defect,2026-06-29,9.5
+26,10,Billing Issue,2026-07-06,88.1
+27,10,Refund Request,2026-05-09,16.7
+28,4,Refund Request,2026-06-14,42.7
+29,9,Billing Issue,2026-05-24,27.1
+30,8,Delivery Delay,2026-07-01,48.7
+31,6,Delivery Delay,2026-02-02,51.7
+32,3,Product Defect,2026-06-03,87.1
+33,7,Billing Issue,2026-06-26,56.3
+34,5,Refund Request,2026-04-16,19.7
+35,7,Delivery Delay,2026-07-01,28.2
+36,6,Delivery Delay,2026-02-18,67.8
+37,8,Billing Issue,2026-03-14,7.9
+38,4,Refund Request,2026-02-13,50.8
+39,6,Delivery Delay,2026-07-23,88.6
+40,8,Product Defect,2026-06-27,8.2
+41,6,Refund Request,2026-04-02,64.3
+42,8,Delivery Delay,2026-04-12,4.5
+43,2,Product Defect,2026-03-05,67.1
+44,6,Product Defect,2026-04-19,51.7
+45,8,Billing Issue,2026-06-17,87.4
+46,8,Delivery Delay,2026-06-09,37.5
+47,4,Refund Request,2026-06-20,50.7
+48,5,Product Defect,2026-07-23,58.5
+49,6,Other,2026-02-18,82.5
+50,6,Refund Request,2026-06-27,69.6
+51,12,Refund Request,2026-02-11,66.2
+52,6,Product Defect,2026-06-16,16.2
+53,7,Product Defect,2026-01-31,59.9
+54,9,Other,2026-02-24,18.4
+55,2,Refund Request,2026-03-30,67.0
+56,6,Refund Request,2026-06-02,14.1
+57,6,Billing Issue,2026-07-07,49.7
+58,6,Billing Issue,2026-04-19,10.6
+59,6,Other,2026-04-03,6.3
+60,6,Billing Issue,2026-02-24,48.8
+61,6,Other,2026-06-19,80.0
+62,8,Billing Issue,2026-07-20,11.3
+63,8,Delivery Delay,2026-06-20,39.3
+64,4,Other,2026-06-03,85.9
+65,10,Other,2026-02-18,92.4
+66,8,Billing Issue,2026-02-09,76.6
+67,6,Refund Request,2026-03-15,82.8
+68,5,Billing Issue,2026-06-08,32.5
+69,1,Product Defect,2026-06-22,21.7
+70,8,Product Defect,2026-06-23,91.5
+71,9,Delivery Delay,2026-02-17,12.0
+72,12,Refund Request,2026-05-26,95.7
+73,4,Other,2026-02-08,82.7
+74,11,Product Defect,2026-02-09,95.1
+75,6,Product Defect,2026-04-30,40.1
+76,5,Product Defect,2026-02-21,95.3
+77,3,Product Defect,2026-04-25,63.7
+78,5,Product Defect,2026-02-17,76.3
+79,8,Product Defect,2026-07-12,82.4
+80,6,Other,2026-07-15,27.5
+81,8,Refund Request,2026-07-03,79.8
+82,8,Billing Issue,2026-02-08,31.6
+83,10,Refund Request,2026-06-28,63.4
+84,3,Product Defect,2026-07-26,85.5
+85,8,Product Defect,2026-04-22,18.4
+86,6,Other,2026-05-17,64.4
+87,6,Other,2026-03-30,63.7
+88,5,Delivery Delay,2026-05-10,70.7
+89,8,Delivery Delay,2026-04-28,31.9
+90,11,Delivery Delay,2026-06-15,90.1
+91,8,Refund Request,2026-07-07,42.2
+92,1,Delivery Delay,2026-07-10,55.2
+93,3,Refund Request,2026-04-11,27.5
+94,11,Delivery Delay,2026-03-04,69.8
+95,11,Product Defect,2026-02-28,32.2
+96,10,Billing Issue,2026-04-29,77.7
+97,6,Billing Issue,2026-07-29,78.3
+98,8,Refund Request,2026-06-16,42.9
+99,6,Delivery Delay,2026-07-11,60.5
+100,8,Delivery Delay,2026-06-25,70.5
+101,8,Product Defect,2026-05-12,8.9
+102,8,Other,2026-05-28,72.7
+103,6,Other,2026-04-17,45.5
+104,11,Billing Issue,2026-04-17,5.4
+105,9,Billing Issue,2026-06-04,9.0
+106,6,Billing Issue,2026-03-28,23.7
+107,12,Product Defect,2026-06-26,43.2
+108,5,Delivery Delay,2026-04-03,92.2
+109,11,Other,2026-03-15,60.4
+110,10,Billing Issue,2026-04-30,24.3
+111,8,Other,2026-02-01,67.1
+112,8,Delivery Delay,2026-02-25,10.6
+113,5,Refund Request,2026-05-11,19.7
+114,9,Other,2026-02-16,33.5
+115,6,Delivery Delay,2026-06-22,6.3
+116,6,Other,2026-07-12,35.1
+117,8,Refund Request,2026-03-27,77.9
+118,1,Refund Request,2026-03-07,62.2
+119,2,Billing Issue,2026-07-28,68.8
+120,8,Product Defect,2026-04-13,93.0
+121,7,Billing Issue,2026-05-12,31.1
+122,6,Billing Issue,2026-04-18,30.0
+123,7,Other,2026-04-05,88.8
+124,8,Billing Issue,2026-06-08,38.3
+125,4,Billing Issue,2026-02-03,95.1
+126,1,Refund Request,2026-07-21,4.2
+127,6,Refund Request,2026-05-10,67.7
+128,8,Product Defect,2026-07-20,57.4
+129,5,Refund Request,2026-03-07,42.1
+130,6,Billing Issue,2026-04-08,9.4
+131,11,Refund Request,2026-06-24,55.5
+132,5,Product Defect,2026-05-08,21.4
+133,4,Other,2026-04-01,69.6
+134,6,Refund Request,2026-05-01,12.4
+135,9,Product Defect,2026-04-02,40.9
+136,8,Billing Issue,2026-05-14,24.1
+137,8,Refund Request,2026-02-22,29.3
+138,9,Other,2026-03-08,81.0
+139,3,Other,2026-04-20,34.8
+140,2,Billing Issue,2026-02-11,42.9
+141,2,Refund Request,2026-05-23,84.2
+142,2,Product Defect,2026-05-12,68.6
+143,8,Refund Request,2026-02-23,13.4
+144,11,Other,2026-03-01,25.0
+145,12,Product Defect,2026-01-30,90.8
+146,1,Refund Request,2026-03-03,44.4
+147,6,Other,2026-05-21,84.4
+148,1,Delivery Delay,2026-03-17,73.4
+149,10,Product Defect,2026-06-22,23.1
+150,11,Refund Request,2026-03-23,41.5
+151,12,Billing Issue,2026-06-04,94.9
+152,10,Other,2026-03-02,82.7
+153,1,Delivery Delay,2026-05-27,16.8
+154,8,Other,2026-04-06,14.1
+155,6,Delivery Delay,2026-03-29,73.6
+156,8,Refund Request,2026-05-13,86.5
+157,9,Refund Request,2026-06-10,29.0
+158,6,Refund Request,2026-05-04,46.4
+159,11,Product Defect,2026-06-27,5.5
+160,8,Delivery Delay,2026-05-13,28.1
+161,6,Refund Request,2026-04-23,89.3
+162,8,Other,2026-06-02,55.3
+163,8,Product Defect,2026-04-29,12.0
+164,6,Product Defect,2026-04-02,33.3
+165,5,Refund Request,2026-03-16,68.5
+166,5,Product Defect,2026-05-06,56.7
+167,8,Delivery Delay,2026-03-09,90.4
+168,8,Other,2026-02-23,22.5
+169,8,Refund Request,2026-01-30,35.9
+170,2,Product Defect,2026-05-24,67.4
+171,5,Billing Issue,2026-06-03,10.0
+172,6,Other,2026-03-11,36.9
+173,8,Refund Request,2026-06-13,19.9
+174,6,Product Defect,2026-02-08,71.6
+175,6,Product Defect,2026-06-10,31.1
+176,2,Product Defect,2026-05-23,40.2
+177,6,Delivery Delay,2026-05-13,23.8
+178,7,Other,2026-04-14,49.4
+179,5,Other,2026-07-22,5.1
+180,3,Product Defect,2026-03-06,82.9
+181,5,Other,2026-07-17,16.4
+182,8,Billing Issue,2026-04-08,85.6
+183,8,Billing Issue,2026-05-23,19.7
+184,6,Refund Request,2026-06-06,81.1
+185,6,Product Defect,2026-06-01,52.4
+186,4,Delivery Delay,2026-06-18,17.2
+187,10,Other,2026-05-19,41.7
+188,3,Product Defect,2026-04-06,72.7
+189,6,Product Defect,2026-06-08,14.5
+190,8,Other,2026-05-31,2.9
+191,8,Product Defect,2026-05-06,39.7
+192,6,Product Defect,2026-06-07,84.5
+193,6,Delivery Delay,2026-06-03,20.5
+194,6,Billing Issue,2026-04-08,8.4
+195,6,Billing Issue,2026-04-04,36.3
+196,8,Billing Issue,2026-04-11,15.3
+197,8,Other,2026-02-23,34.7
+198,3,Product Defect,2026-07-15,18.3
+199,4,Product Defect,2026-07-15,9.4
+200,6,Product Defect,2026-03-03,54.3
+201,1,Billing Issue,2026-06-16,24.1
+202,8,Refund Request,2026-06-26,6.4
+203,10,Refund Request,2026-04-03,8.4
+204,11,Delivery Delay,2026-07-06,44.7
+205,6,Product Defect,2026-02-10,76.9
+206,2,Delivery Delay,2026-04-25,7.5
+207,6,Refund Request,2026-02-10,85.0
+208,7,Delivery Delay,2026-03-30,62.4
+209,8,Refund Request,2026-05-24,40.9
+210,12,Other,2026-06-13,89.0
+211,6,Billing Issue,2026-04-28,62.1
+212,6,Other,2026-04-08,16.5
+213,8,Product Defect,2026-05-04,49.5
+214,8,Product Defect,2026-06-20,31.8
+215,6,Other,2026-02-03,34.3
+216,5,Other,2026-05-18,69.0
+217,9,Product Defect,2026-05-27,47.6
+218,8,Billing Issue,2026-03-05,74.3
+219,8,Product Defect,2026-07-04,14.2
+220,8,Delivery Delay,2026-06-29,51.9
+221,9,Delivery Delay,2026-05-30,67.5
+222,10,Billing Issue,2026-02-22,6.7
+223,8,Billing Issue,2026-07-17,83.1
+224,8,Refund Request,2026-02-02,5.4
+225,6,Other,2026-06-21,35.1
+226,11,Other,2026-02-21,25.7
+227,4,Product Defect,2026-02-26,31.9
+228,6,Billing Issue,2026-07-03,18.2
+229,8,Billing Issue,2026-04-21,72.4
+230,6,Product Defect,2026-03-09,44.7
+231,6,Delivery Delay,2026-04-28,82.6
+232,8,Product Defect,2026-07-01,37.3
+233,5,Refund Request,2026-02-04,78.2
+234,11,Billing Issue,2026-06-10,87.4
+235,8,Other,2026-06-09,21.0
+236,2,Refund Request,2026-05-13,43.6
+237,8,Refund Request,2026-03-23,81.0
+238,8,Other,2026-02-26,56.5
+239,3,Delivery Delay,2026-05-21,45.7
+240,6,Delivery Delay,2026-04-25,59.7
+241,5,Other,2026-02-04,34.8
+242,12,Refund Request,2026-06-11,76.1
+243,7,Billing Issue,2026-05-25,60.6
+244,6,Billing Issue,2026-04-11,61.7
+245,8,Product Defect,2026-02-26,71.7
+246,6,Product Defect,2026-05-22,19.4
+247,8,Billing Issue,2026-05-09,76.7
+248,6,Refund Request,2026-03-06,16.4
+249,6,Delivery Delay,2026-04-18,34.8
+250,8,Product Defect,2026-02-25,14.6
+251,4,Other,2026-06-19,16.2
+252,2,Delivery Delay,2026-07-11,32.3
+253,6,Product Defect,2026-07-19,16.3
+254,3,Refund Request,2026-02-09,67.9
+255,5,Product Defect,2026-04-09,25.0
+256,8,Billing Issue,2026-06-15,79.7
+257,2,Product Defect,2026-07-19,42.6
+258,8,Refund Request,2026-02-10,26.4
+259,9,Delivery Delay,2026-02-14,64.9
+260,3,Delivery Delay,2026-06-10,21.2
+261,6,Product Defect,2026-02-12,52.6
+262,6,Delivery Delay,2026-05-21,55.9
+263,6,Product Defect,2026-07-13,79.0
+264,8,Product Defect,2026-06-21,10.9
+265,6,Delivery Delay,2026-04-25,72.4
+266,9,Delivery Delay,2026-04-25,52.6
+267,6,Other,2026-04-14,52.4
+268,5,Refund Request,2026-07-27,11.8
+269,11,Delivery Delay,2026-03-16,32.7
+270,10,Other,2026-07-15,38.6
+271,2,Product Defect,2026-02-07,2.1
+272,5,Product Defect,2026-03-06,89.2
+273,8,Billing Issue,2026-02-16,51.3
+274,6,Refund Request,2026-03-18,32.8
+275,5,Billing Issue,2026-05-18,90.9
+276,5,Refund Request,2026-06-29,58.0
+277,8,Product Defect,2026-05-15,63.9
+278,6,Other,2026-06-23,69.2
+279,6,Product Defect,2026-06-14,9.1
+280,6,Delivery Delay,2026-05-12,66.9
+281,6,Refund Request,2026-06-18,59.5
+282,10,Product Defect,2026-07-01,28.5
+283,8,Other,2026-03-06,74.6
+284,6,Delivery Delay,2026-03-31,83.1
+285,7,Product Defect,2026-04-16,57.3
+286,12,Other,2026-05-19,56.1
+287,9,Delivery Delay,2026-02-13,17.1
+288,8,Delivery Delay,2026-03-11,3.9
+289,6,Billing Issue,2026-04-12,40.5
+290,6,Delivery Delay,2026-07-14,2.5
+291,8,Product Defect,2026-03-13,33.6
+292,10,Billing Issue,2026-06-11,84.1
+293,8,Refund Request,2026-02-18,6.4
+294,6,Refund Request,2026-05-28,85.3
+295,6,Other,2026-07-29,89.9
+296,10,Product Defect,2026-04-14,81.2
+297,12,Product Defect,2026-02-11,75.2
+298,12,Delivery Delay,2026-07-14,44.4
+299,10,Billing Issue,2026-06-18,79.3
+300,6,Product Defect,2026-06-01,18.7
+301,10,Product Defect,2026-03-23,59.3
+302,5,Product Defect,2026-06-05,78.6
+303,6,Delivery Delay,2026-03-22,33.6
+304,6,Other,2026-04-17,18.6
+305,7,Delivery Delay,2026-05-27,42.8
+306,2,Delivery Delay,2026-07-29,93.5
+307,8,Product Defect,2026-02-10,49.5
+308,6,Product Defect,2026-06-02,69.4
+309,8,Delivery Delay,2026-02-07,52.8
+310,9,Product Defect,2026-05-01,86.4
+311,7,Other,2026-07-13,51.7
+312,3,Delivery Delay,2026-04-17,91.6
+313,8,Billing Issue,2026-04-22,10.9
+314,6,Billing Issue,2026-02-18,70.0
+315,11,Product Defect,2026-07-28,61.7
+316,10,Other,2026-07-04,82.5
+317,1,Product Defect,2026-07-10,60.4
+318,7,Other,2026-04-07,91.9
+319,6,Billing Issue,2026-03-23,67.3
+320,4,Other,2026-04-13,56.5
+321,10,Product Defect,2026-03-13,67.1
+322,4,Billing Issue,2026-06-14,71.0
+323,8,Product Defect,2026-01-31,38.7
+324,4,Billing Issue,2026-03-15,38.1
+325,6,Other,2026-04-30,56.0
+326,6,Product Defect,2026-05-08,44.1
+327,2,Other,2026-03-22,57.8
+328,6,Refund Request,2026-05-07,23.0
+329,1,Billing Issue,2026-02-19,61.8
+330,7,Refund Request,2026-06-25,56.5
+331,12,Delivery Delay,2026-04-07,27.2
+332,8,Product Defect,2026-02-21,40.7
+333,11,Refund Request,2026-07-13,73.9
+334,11,Other,2026-04-19,47.5
+335,10,Delivery Delay,2026-03-10,75.5
+336,7,Refund Request,2026-02-04,65.9
+337,1,Other,2026-04-30,66.4
+338,11,Refund Request,2026-04-17,27.9
+339,9,Product Defect,2026-02-24,77.4
+340,2,Delivery Delay,2026-04-15,45.4
+341,2,Billing Issue,2026-03-19,90.7
+342,3,Product Defect,2026-04-18,70.9
+343,10,Other,2026-07-02,95.7
+344,2,Other,2026-03-15,4.6
+345,2,Refund Request,2026-07-27,76.5
+346,6,Other,2026-04-20,84.3
+347,3,Product Defect,2026-06-29,80.6
+348,6,Product Defect,2026-04-18,15.1
+349,7,Delivery Delay,2026-04-19,39.6
+350,10,Other,2026-07-14,3.7
+351,10,Product Defect,2026-05-21,52.3
+352,1,Refund Request,2026-03-18,11.8
+353,6,Delivery Delay,2026-03-09,84.5
+354,11,Other,2026-06-11,84.2
+355,6,Refund Request,2026-03-28,30.7
+356,10,Other,2026-05-30,60.2
+357,8,Refund Request,2026-07-02,54.0
+358,6,Product Defect,2026-07-26,16.0
+359,7,Refund Request,2026-07-26,6.4
+360,8,Delivery Delay,2026-02-06,34.4
+361,5,Billing Issue,2026-07-03,57.7
+362,12,Refund Request,2026-02-14,21.1
+363,4,Billing Issue,2026-05-16,11.1
+364,1,Other,2026-06-10,79.6
+365,10,Refund Request,2026-04-10,44.2
+366,6,Other,2026-03-29,87.9
+367,8,Delivery Delay,2026-03-16,46.4
+368,6,Delivery Delay,2026-07-22,12.6
+369,8,Billing Issue,2026-04-25,85.5
+370,6,Delivery Delay,2026-05-31,27.5
+371,2,Refund Request,2026-05-26,14.4
+372,12,Delivery Delay,2026-04-20,47.5
+373,3,Billing Issue,2026-03-08,86.8
+374,5,Refund Request,2026-06-17,30.3
+375,6,Billing Issue,2026-06-23,76.0
+376,8,Delivery Delay,2026-05-08,87.6
+377,12,Other,2026-04-09,84.0
+378,8,Refund Request,2026-04-12,74.2
+379,6,Product Defect,2026-06-28,59.2
+380,3,Product Defect,2026-06-04,89.6
+381,2,Billing Issue,2026-07-22,26.3
+382,2,Billing Issue,2026-04-21,30.5
+383,2,Refund Request,2026-04-25,58.1
+384,12,Billing Issue,2026-05-07,18.0
+385,6,Other,2026-06-02,31.4
+386,8,Delivery Delay,2026-06-24,29.0
+387,4,Product Defect,2026-07-03,17.6
+388,12,Delivery Delay,2026-07-29,71.7
+389,5,Product Defect,2026-02-11,19.4
+390,8,Delivery Delay,2026-03-31,24.3
+391,8,Billing Issue,2026-03-25,16.8
+392,1,Other,2026-02-15,53.3
+393,6,Other,2026-05-02,54.2
+394,3,Other,2026-05-07,18.1
+395,11,Refund Request,2026-06-16,66.0
+396,4,Product Defect,2026-05-10,11.5
+397,6,Other,2026-05-07,48.0
+398,12,Delivery Delay,2026-04-06,8.3
+399,3,Delivery Delay,2026-03-16,82.1
+400,6,Refund Request,2026-05-12,58.3

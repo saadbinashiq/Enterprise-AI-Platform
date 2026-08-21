@@ -1,0 +1,13 @@
+store_id,name,city,country,size_sqft
+1,Store-London-1,London,UK,2409
+2,Store-Manchester-2,Manchester,UK,6012
+3,Store-Islamabad-3,Islamabad,Pakistan,14066
+4,Store-Karachi-4,Karachi,Pakistan,14135
+5,Store-London-5,London,UK,11674
+6,Store-Dubai-6,Dubai,UAE,2488
+7,Store-Islamabad-7,Islamabad,Pakistan,5811
+8,Store-London-8,London,UK,11195
+9,Store-Karachi-9,Karachi,Pakistan,12647
+10,Store-Manchester-10,Manchester,UK,5611
+11,Store-Abu Dhabi-11,Abu Dhabi,UAE,2106
+12,Store-Karachi-12,Karachi,Pakistan,8924

@@ -1,0 +1,9 @@
+campaign_id,name,channel,budget,start_date,end_date
+1,Campaign-1,Social,43212.48,2025-04-08,2025-04-29
+2,Campaign-2,Search,18783.6,2025-02-21,2025-03-14
+3,Campaign-3,Social,33681.59,2025-02-27,2025-03-31
+4,Campaign-4,TV,43488.94,2025-03-26,2025-04-19
+5,Campaign-5,Search,34616.87,2025-03-31,2025-05-11
+6,Campaign-6,Social,7536.4,2025-03-26,2025-04-18
+7,Campaign-7,TV,3836.35,2025-02-15,2025-04-01
+8,Campaign-8,TV,36970.16,2025-04-22,2025-05-19
