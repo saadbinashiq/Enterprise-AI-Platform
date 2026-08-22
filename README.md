@@ -1,7 +1,7 @@
 # Enterprise AI Business Decision Intelligence Platform
 
-Implementation of the **AI-002 Enterprise AI Business Decision Intelligence Platform**
-case study, scoped for a 2-person, 4-week internship deliverable. Every
+Implementation of the **Enterprise AI Business Decision Intelligence Platform**
+case study, scoped for 4-week internship deliverable. Every
 architectural component in the case study (multi-agent system, RAG, knowledge
 graph, forecasting, explainability, dashboard, alerting) is implemented and
 runnable end-to-end on a synthetic dataset, with **zero required external
